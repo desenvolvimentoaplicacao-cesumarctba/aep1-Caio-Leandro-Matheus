@@ -12,7 +12,7 @@ class cavalo extends animal {
 
     //método fugir
     public function fugir() {
-        echo "BRRUUUUU";
+        echo "BRRUUUUU <br>";
     }
 
 }
